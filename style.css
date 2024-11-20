@@ -28,3 +28,11 @@ a, .btn-link:hover {
 a:hover {
     color: var(--cor-destaque);
 }
+
+.modal-footer{
+    justify-content: space-between;
+}
+
+.habilidades{
+    color: var(--cor-secundaria);
+}
